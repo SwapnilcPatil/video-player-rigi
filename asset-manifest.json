@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videoplayer-by-rigi/static/css/main.49c35fd3.css",
+    "main.js": "/videoplayer-by-rigi/static/js/main.9636a042.js",
+    "index.html": "/videoplayer-by-rigi/index.html",
+    "main.49c35fd3.css.map": "/videoplayer-by-rigi/static/css/main.49c35fd3.css.map",
+    "main.9636a042.js.map": "/videoplayer-by-rigi/static/js/main.9636a042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c35fd3.css",
+    "static/js/main.9636a042.js"
+  ]
+}
